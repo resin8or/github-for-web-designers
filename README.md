@@ -5,4 +5,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 ##[View the companion reference site](http://jameswillweb.github.io/github-for-web-designers/)
 
-Test Addition.
+Test Addition...
